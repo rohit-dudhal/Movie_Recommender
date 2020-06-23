@@ -1,2 +1,2 @@
-# Movie_Recommender
-Learned from CodeHeroku
+# Movie Recommender
+## Movie Recommender Engine Using Colaborative Filtering
