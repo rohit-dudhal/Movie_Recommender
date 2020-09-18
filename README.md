@@ -1,7 +1,6 @@
 # Movie Recommender Engine Using Colaborative Filtering
 ## Code Specifications
       1) Use of Content Based filtering is also possible as per test score.
-      2) Here Cosine Similarity is used to find similarity between features.
    
 ## Working
       1) Work on users input.
